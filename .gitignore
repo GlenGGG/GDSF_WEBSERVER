@@ -1,0 +1,7 @@
+*.swp
+compile_commands.json
+.vscode/
+log.txt
+*.d
+*.o
+.ycm*
